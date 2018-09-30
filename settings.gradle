@@ -1,1 +1,1 @@
-include ':sample', ':MediaPlayer'
+include ':sample', ':MediaPlayer', ':AndroidMediaPlayer'
